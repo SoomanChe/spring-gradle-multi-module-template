@@ -1,11 +1,11 @@
-package com.soomanche.startuptemplate
+package com.soomanche
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class StartupTemplateApplication
+class TemplateApplication
 
 fun main(args: Array<String>) {
-    runApplication<StartupTemplateApplication>(*args)
+    runApplication<TemplateApplication>(*args)
 }
