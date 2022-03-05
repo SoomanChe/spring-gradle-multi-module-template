@@ -1,6 +1,6 @@
-package com.soomanche.entity.member
+package com.soomanche.domain.member
 
-import com.soomanche.entity.model.BaseEntity
+import com.soomanche.domain.model.BaseEntity
 import org.springframework.data.relational.core.mapping.Column
 import org.springframework.data.relational.core.mapping.Table
 

@@ -1,6 +1,6 @@
-package com.soomanche.entity.model
+package com.soomanche.domain.model
 
-import com.soomanche.entity.member.Member
+import com.soomanche.domain.member.Member
 import org.springframework.data.annotation.*
 import org.springframework.data.domain.Persistable
 import org.springframework.data.relational.core.mapping.Column
